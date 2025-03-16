@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JCmamoa/JCmamoa/output/snake.svg" alt="Snake animation" />
-
-###
